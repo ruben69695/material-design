@@ -17,5 +17,5 @@ Fork, added variation to only material design theme, changed some colors that do
 **MaterialDesign** [(screenshot)](https://raw.githubusercontent.com/artyuum/3rd-party-ruTorrent-Themes/master/materialdesign.jpg)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
-$ git clone https://github.com/ArtyumX/ruTorrent-Themes/trunk/MaterialDesign
+$ git clone https://github.com/ruben69695/material-design/archive/refs/tags/v1.2.zip
 ```
