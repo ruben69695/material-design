@@ -10,7 +10,7 @@ Fork, added variation to only material design theme, changed some colors that do
  
 * [ruTorrent](https://github.com/Novik/ruTorrent)
 * [Plugin: Theme](https://github.com/Novik/ruTorrent/wiki/PluginTheme)
-* subversion: `apt-get install subversion`
+* subversion: `apt-get install git`
 
 ## Installation
  
