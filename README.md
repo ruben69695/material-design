@@ -14,7 +14,8 @@ Fork, added variation to only material design theme, changed some colors that do
 
 ## Installation
  
-**MaterialDesign** [(screenshot)](https://raw.githubusercontent.com/artyuum/3rd-party-ruTorrent-Themes/master/materialdesign.jpg)
+**MaterialDesign** 
+![This fork](https://github.com/ruben69695/material-design/releases/download/v1.2/screenshot.png)
 ```
 $ cd /var/www/rutorrent/plugins/theme/themes
 $ git clone https://github.com/ruben69695/material-design
